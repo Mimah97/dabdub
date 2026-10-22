@@ -114,3 +114,6 @@ Grafana/Loki/Promtail configs under [`grafana/`](grafana/) and [`docker-compose.
 
 <!-- handsoff-issue-1113 -->
 - #1113: payment_escrow: the highest-risk functions (upgrade, emergency_drain's XLM path, set_registry(None)) have the thinnest test coverage
+
+<!-- handsoff-issue-1261 -->
+- #1261: [P2] payment_escrow: add support for partial dispute resolution
